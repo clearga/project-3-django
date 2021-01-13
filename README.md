@@ -50,7 +50,7 @@ After you have completed your project, **deploy to heroku** to get practice gett
 
 ## Presentation
 
-Each group will present their project on **10/14/2020**.
+Each group will present their project.
 
 Each member of your group should speak for equal parts during your presentation and mention which parts of the project they worked on.
 
@@ -100,14 +100,3 @@ You will be evaluated on the following measures:
 - **Heroku:** Deploy your app to Heroku. Ensure no app secrets are exposed.
 - **Github:** Projects must have a minimum of 60 specific commits.
 
-
-## Teams
-
-<details>
-  <summary><h3>Happy Coding :)</h3></summary>
-  <ul>
-    <li>Student1, Student2, Student3...</li>
-    <li>Student1, Student2, Student3...</li>
-    <li>Student1, Student2, Student3...</li>
-  </ul>
-</details>
