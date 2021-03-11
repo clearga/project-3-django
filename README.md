@@ -15,7 +15,7 @@ This client has commissioned your group to build a travel community, code-named 
 
 This client has commissioned your group to build a tech review site, code-named Lemon Log, where authors of the site can write a and publish posts and users of the site can comment on articles. The client has provided basic wireframes and user stories. In some cases, these requirements may be vague or incomplete.
 
-- [Wireframes](https://git.generalassemb.ly/wc-sei-0119/django-wayfarer/tree/master/recruiting-events-wireframes)
+- [Wireframes](https://git.generalassemb.ly/wc-sei-0119/django-wayfarer/tree/master/tech-review-wrieframes)
 - [User Stories](./user-stories-tech-review.md)
 
 ## Client Contract - Jobber (Recruiting Events)
