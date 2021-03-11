@@ -31,15 +31,15 @@ The client contract consists of three core sprints and four bonus sprints. Each 
 
 **IMPORTANT:** You may not begin a new sprint or start on a bonus without client approval.
 
-You will work in groups of 3-4, and we expect you to **pair program** for the majority of the time you're writing code.
+You will work in groups of 2-3, assigned by instructors, and we expect you to **pair program** for the majority of the time you're writing code.
 
-During morning scrums and in smaller check-ins throughout the day, clearly communicate your current status and next steps to your teammates. Use a kanban-style scrum board such as **Trello** to organize tasks ([example Trello board](https://trello.com/b/JPdt327u/vagabond)).
+During morning scrums and in smaller check-ins throughout the day, clearly communicate your current status and next steps to your teammates. Use a kanban-style scrum board such as **Trello** to organize tasks ([example Trello board](https://trello.com/b/JPdt327u/vagabond)). Update clients at least once per day on progress.
 
 Commit changes at least once for each user story. Put effort into your **design**. Use a CSS framework (e.g. Bootstrap or Materialize), partials, and some custom CSS or Sass/Less.
 
 Work as **git collaborators, build on developer branches, and submit pull requests for approval and merging**.
 
-After you have completed your project, **deploy to heroku** to get practice getting the app online. The earlier you resolve deployment, the easier it will be to fix bugs.
+**Deploy to heroku** to get practice getting the app online. The earlier you resolve deployment, the easier it will be to fix bugs.
 
 **Refactor** your code after each sprint, considering:
 
@@ -50,7 +50,7 @@ After you have completed your project, **deploy to heroku** to get practice gett
 - Commenting
 - DRYness
 
-## Questions to Ask Yourselves
+## Questions to Ask Yourselves Each Day
 
 1. **Are you all clear about what the client wants?** Identify vague areas. Seek clarification in any cases where you feel less confident about your interpretation of the client's vision.
 
