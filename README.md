@@ -2,14 +2,28 @@
 
 ## Brief
 
-We have been commissioned to build a travel community, code-named **Project Wayfarer** for now, for users to share tips (AKA posts) about their favorite locations around the world.
+We have been commissioned to build a web app for one of the following clients. 
 
-## Client Contract
+## Client Contract - Wayfarer
 
-The client has provided basic wireframes and user stories. In some cases, these requirements may be vague or incomplete.
+This client has commissioned your group to build a travel community, code-named **Project Wayfarer**, for users to share tips (AKA posts) about their favorite locations around the world. The client has provided basic wireframes and user stories. In some cases, these requirements may be vague or incomplete.
 
 - [Wireframes](./wireframes.png)
 - [User Stories](./user-stories.md)
+
+## Client Contract - Tech Reviews
+
+This client has commissioned your group to build a tech review site, code-named ______, where authors of the site can write a and publish posts and users of the site can comment on articles. The client has provided basic wireframes and user stories. In some cases, these requirements may be vague or incomplete.
+
+- [Wireframes]()
+- [User Stories]()
+
+## Client Contract - Tech Recruiting Events
+
+This client has commissioned your group to build an app where they can post and promote various tech recruiting events. Due to COVID-19, events will be held remotely for the time being so special consideration will need to be made for these events. The client has provided basic wireframes and user stories. In some cases, these requirements may be vague or incomplete.
+
+- [Wireframes]()
+- [User Stories]()
 
 ## Process
 
@@ -95,7 +109,7 @@ You will be evaluated on the following measures:
 - **Error Handling:** Forms in your application should also validate data, handle incorrect inputs, and provide user feedback on the client side.
 - **Views:** Use **partials** to follow DRY (Don’t Repeat Yourself) development in your views.
 - **Home & About Pages:** Create a landing page (homepage) that clearly explains your app's value proposition and guides the user through the "get started" funnel. Create an about page that includes photos and brief bios of your team members.
-- **User Experience:** Ensure a pleasing and logical user experience. Use a framework like Bootstrap to enhance and ease your CSS styling. **For this project, please choose a framework other than Materialize**.
+- **User Experience:** Ensure a pleasing and logical user experience. Use a framework like Bootstrap to enhance and ease your CSS styling.
 - **Responsive Design:** Make sure your app looks great on a phone or tablet.
 - **Heroku:** Deploy your app to Heroku. Ensure no app secrets are exposed.
 - **Github:** Projects must have a minimum of 60 specific commits.
